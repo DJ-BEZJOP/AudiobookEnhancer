@@ -1,0 +1,14 @@
+Marker Name	Time
+Metallic Clang - Engine Bang	503
+Static Fade - Silence	708
+Crash Landing - Metal Grind	1747
+Airlock Knock - Mysterious	1867
+Sol Start - Gentle Chime	2039
+Airlock Cycle - Mechanical	2117
+Message Chime - Somber News	2434
+Alien Reveal - Synth Glitch	2502
+Alien Crash - Engine Failure	3067
+Communication Loss - Martian Wind	3127
+Spitfire Fail - Comical Thud	3475
+Dragonfly Buzz - Insectoid	3539
+Rover Tension - Pulsing Synth	3776

@@ -1,0 +1,14 @@
+Position	Name
+00:08:23:00	Metallic Clang - Engine Bang
+00:11:48:00	Radio Silence - Hum Cut
+00:29:07:00	Spaceship Crash
+00:31:07:00	Metallic Knocks
+00:33:59:00	Life Support Hum - Chime
+00:35:17:00	Airlock Operation
+00:40:34:00	Message Received Chime
+00:41:42:00	Alien Object Reveal
+00:51:07:00	Alien Spaceship Crash
+00:52:07:00	Radio Silence - Martian Wind
+00:57:55:00	Comic Flight Fail
+00:58:59:00	Dragonfly Buzz
+01:02:56:00	Rover Trip Tension

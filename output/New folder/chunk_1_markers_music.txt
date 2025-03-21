@@ -1,0 +1,14 @@
+Region Name	Start Time	End Time
+Calm - Exposition	0	335
+Tense - System Failure	335	498
+Tense - Communication Loss	498	749
+Somber - Power Loss	749	993
+Unsettling - Low Magic	993	1278
+Urgent - Collision Course	1278	1503
+Intense - Crash Landing	1503	1786
+Mysterious - The Knock	1786	1888
+Melancholy - Mission Abort	2039	2258
+Suspenseful - New Mission	2259	2800
+Curious - First Contact	2855	3175
+Whimsical - Pony Descriptions Part 1	3176	3503
+Adventurous - Pony Descriptions Part 2 & Planning	3504	3790

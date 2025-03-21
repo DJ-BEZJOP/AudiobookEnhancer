@@ -1,0 +1,166 @@
+The Maretian
+
+A crossover between My Little Pony: Friendship is Magic and Andy Weir’s The Martian.
+
+Tags:
+Profanity, Adventure, Sci-Fi, Crossover, Human, Spitfire, Changelings, Starlight Glimmer, Dragons, Cherry Berry
+
+Sequel to: Changeling Space Program
+Synopsis:
+Twilight Sparkle’s experimental interplanetary drive has malfunctioned, stranding an international crew—including Starlight Glimmer, Spitfire, Cherry Berry, a changeling named Dragonfly, and a dragon named Fireball—on a hostile planet in an entirely different universe.
+
+With no magic, almost no food, and no hope of rescue, survival seems impossible.
+
+Luckily, they crash-landed right next to someone facing the exact same problem—a human named Mark Watney.
+
+Together, they’re going to science the buck out of everything and do whatever it takes to survive on Mars and make it home.
+
+Additional Notes:
+The story frequently shifts perspectives, often through the journal entries of Mark or other crew members.
+Some chapters follow events at NASA, aboard the Hermes, or from the perspective of the stranded ponies.
+Chapters typically begin with “Sol + number” (e.g., Sol 6, Sol 12). Additional mission details may be included (e.g., Amicitas, Flight 3, Mission Day 8, Ares 3 Sol 12), but this is not always consistent.
+The author often includes end-of-chapter notes, but due to formatting quirks in transcriptions, the boundary between author notes and the next chapter can sometimes be unclear.
+
+Tvtropes information:
+The Maretian is a survival adventure where the humor comes mostly through character interactions and Mark Watney's snarky log entries.
+
+Interspecies Friendship: To be expected in a MLP:FiM fanfic, but a few of the less conventional ones include:
+Cherry Berry and several of her changeling co-workers. Of particular note is Cherry and Chrysalis.
+The martian castaways; spend over 500 days working to survive and you definitely get Fire-Forged Friends.
+
+Let's Get Dangerous!: Cherry Berry is usually a typical pony, just as prone to panic attacks as any other citizen of Ponyville. But put her in a cockpit and she becomes the proverbial Steely-Eyed Missile Mare.
+
+Retro Rocket: Twilight Sparkle's favorite test-bed vehicle and prototype for her vision of the future of space travel, Amicitas. It's essentially a three-fin cigar rocket with a flattened bottom to turn it into a space shuttle-like vessel that lands on a runway instead of on its tail.
+The third flight of Amicitas and its aftermath is the entire premise of The Maretian.
+
+Subspace Ansible: The telepresence spell used to monitor Equestrian spaceflight appears to be instantaneous and has the additional benefit of being immune to the re-entry blackout experienced by conventional radio.
+
+Wizards from Outer Space: Magic plays a significant role in Equestrian space flight (FTL communications and clairvoyant monitors, magically transported air and water for life support). It does, however, have limitations and rules it has to obey, so science and technology still have a fundamental role. And, of course in The Maretian, the non-human castaways each have a magic specialty of some kind that helps the group survive. (Specifically, Fireball's strength and durability, Spitfire's weather magic, Cherry Berry's affinity with plants, Starlight Glimmer's encyclopedic knowledge of spells, and Dragonfly's... ability to spit up useful kinds of goo.)
+
+Acid Reflux Nightmare: After eating Mark's leftover turkey, Fireball gets one based on the television the crew has been watching.
+Alien Arts Are Appreciated: Starlight initially considers Disco to be "excellent breaking-edge music".
+Alliterative Name: On Sol 7, Mark describes Cherry Berry (emphasis added).
+Mark: The first of these little horse alien things is pink — pink like your kid sister's Pretty Pansy Princess Playroom Set.
+Anti-Mutiny: After the Hab breach of Sol 88, Cherry Berry, who feels she has failed as leader of the pony crew, attempts to resign as mission commander. The others aren't having it, not even Spitfire, who up to this point has felt awkward about being the lowest-ranking member of the crew after being commander of Equestria's most elite military unit.
+“Is it a mutiny when the crew is forcing the captain to keep giving orders?” Dragonfly asked.
+“Yes!!” Cherry Berry snapped.
+Background Magic Field: The absence of this on Mars is a critical problem for the ponies. The initial stress of attempting to draw mana from the nonexistent field caused a cascade failure that destroyed all but two of the ponies' mana batteries. Life does generate some mana, which allows a slow recharge of their remaining batteries, but initially, all the life on Mars fits in the Ares III Hab with lots of room to spare. It is later realized that the Amicitas' crew, having evolved in a universal magic field, require said field for their health. While changelings would starve to death in months, dragons would simply take longer by wasting away, and it is postulated that ponies would eventually suffer a permanent loss of their magic abilities.
+Bilingual Dialogue: Although he can't speak Equestrian, Mark does pick up enough vocabulary and grammar to understand what the ponies are saying in their native language.
+"Blind Idiot" Translation: The translation spell Starlight Glimmer cobbles together to speak with Mark Watney tends to do this, especially when confronted with the literal nature of pony-world names. For example, the spell at one point renders Spitfire's name as "Slobberflame". Between this problem and the fact that the spell can only be used for about ninety seconds before Starlight collapses from exhaustion, it's no wonder that she pushes hard to get everyone to learn English.
+Box-and-Stick Trap: For a test launch of a magic-powered launch system, Mark Watney has improvised a deadfall "switch" that reminds Dragonfly of one of these. Dragonfly hates them because they're stupid... but they still work anyway. Including on other members of her own species.
+Break Out the Museum Piece: Both Mark and NASA resort to this. Mark raids the Carl Sagan Memorial Station on Mars to collect most of the Pathfinder probe (and the Sojourner rover). NASA pulls its terrestrial duplicate out of the Smithsonian for their engineers to work on.
+But for Me, It Was Tuesday: Mark references the trope after the ponies tell him the story of Trixie Lulamoon and the Alicorn Amulet.
+For you or me, the day a stage magician shows up with real magic power and forces the town to kneel before his/her might would be a turning point in our dreary little lives. For ponies, it's Tuesday. Bear this in mind if you're tempted to make diplomatic threats.
+Child Prodigy: The four-year-old Flurry Heart continues to demonstrate her precociousness when she teleports to the Concordia to visit Cadance (who was filling in as ship's commander while Chrysalis was overseeing repulsor spell launch tests).
+Cut the Juice: A hardware malfunction in the computer used to generate the timing signal for the Phoenix's Sparkle Drive system causes the drive to engage at maximum frequency (1 billion jumps per second). As the mana batteries drain precipitously and the risk of catastrophic crystal failure rises, Mark averts total disaster by disconnecting the computer (yanking out the cable), stopping any further teleports.
+Determinator: Pretty much all the castaways. Except Dragonfly, who gives up after she has her magic-starvation-induced monster breakdown. It takes two months in a cocoon followed by a scolding by Starlight Glimmer to get her back on track.
+Dinky Drivers: Mark compares the Whinnybago's jury-rigged fore-and-aft-drivers steering system to two small children attempting to drive a car with one at the wheel and the other on the pedals.
+Disaster Dominoes:
+The chain of events leading to the Equestrians getting stuck on Mars. Bonus points for contributing to the storm that strands Mark as well.
+Also, the outcome of the launch of the Ares IV MAV, rechristened Phoenix.
+Dope Slap: On discussing Applejack and the kind of monsters she fought, Dragonfly includes Changelings and gets smacked on the head by Spitfire for "bragging about being evil". Starlight then enumerates other monsters, concluding with "And, um, me," and then covering her horn with both forehooves as Spitfire gets closer. Cherry Berry orders Spitfire to cut it out before another dope slap happens, though.
+Eldritch Abomination: They stop the efforts to locate the astronauts with extradimensional probes cold. There are a few close calls with attracting the attention of dangerous beings, such as when a Decepticon nearly gets their hands on a probe. But the final line is when they encounter an entity where even the saved video of it is enough to come to life and being attacking everypony's minds... until they're rescued by the local dimensional eldritch abomination counterpart of Pinkie Pie. Eldritch Pinkie also makes sure to close off its dimension by erasing the original footage so the vulnerable Equestrians can't be attacked again. At that point, the program is immediately shut down and they have to explore other options to find the correct dimensional coordinates. They later sent along a safety message to Earth's dimension, warning them to not make dimension-hopping probes.
+Everyone Knows Morse: Well, at least Dragonfly, Twilight, Spike, and Drying Paint (the duty watchmare at Cape Friendship, and former telegraph operator) know the pony equivalent. Mark initially needs a cheat sheet for his Morse messages.
+Exposed Extraterrestrials: Although the natives of Equus do have jump suits and spacesuit undergarments with them, they come from a society where clothing is usually a fashion option rather than a necessity. Early on Mark comments that he is reminded on a daily basis that two-thirds of the Hab population is now female.
+Face Stealer: On Sol 107, in combination with Take Away Their Name, as a misinterpretation of merchandise licensing:
+Mark read it again, frowned, and said, "License is permission to do a thing. In this case, a company wants to buy your name and face."
+"What??" Cherry Berry's forehooves flew to her face. "You said you have no magic! I still using those!"
+Failsafe Failure: At the beginning, Amicitas loses all but its two emergency mana batteries to a failure cascade. The systems which would have prevented this all depended on the same ambient mana that the ship ran on. No mana = no failsafes = no batteries.
+Faster-Than-Light Travel: Happens unintentionally when a computer keyboard failure results in overclocking the Sparkle Drive. One billion jumps per second, at half a meter per jump, equals 67% faster than the speed of light.
+First Contact: Yes, but there are more pressing issues immediately confronting the castaways than pondering the significance of the meeting.
+First-Contact Math: One of the first things Starlight does when trying to communicate with Mark is to stomp out numerical sequences. This leads him to conclude:
+Obviously this can only mean one thing: she's a sci-fi geek who's read all the classic first-contact stories.
+Five-Token Band: The reason the five crewmembers of Amicitas were chosen. Two members each of Equus's two leading space programs, plus a veteran of one of the discontinued smaller programs. One each of the three pony tribes, one changeling, and a dragon to represent the other speaking races. Although the crew did have their duties and were given training for the sections they did not excel in, Twilight Sparkle chose the crew to maximize popular support rather than to pick the best-integrated team, because the mission, a manned scouting mission at best, was only expected to run five days, maximum (the space exploration equivalent of a a three-hour tour). Fortunately for the crew, the selections worked out much better than planned, partly because the team included Equestria's most experienced space pilot, the most powerful unicorn of her generation, a more-intelligent-than-average changeling, an elite military officer... and Fireball. To be fair though, most of Fireball's duties involved extravehicular activity in space, backup pilot, and spacesuit safety checks, one of which is useless on a planet and the other made moot by flight engineer Dragonfly being the only one that could repair their only set of suits. This largely left him as the super-strong guy.
+Flipping the Bird: During the final sol, as the crew sings a parody of David Bowie's A Space Oddity, Fireball sings to everyone to "Tell Mars just what we think of it". Dragonfly, with her empathic abilities, comes back with "It knows!"
+Foreign Cuss Word: One Equestrian word that Mark has no difficulty pronouncing gets (re)translated as buck. (As used in many MLP fanfics as a substitute for the f-word.)
+Genius Loci: Maybe. Mars certainly gives the impression of being actively hateful and malevolent, and aiming deadly storms or other mishaps at them whenever it gets enough mana from the castaway's experiments to do so. And Dragonfly certainly begins to sense malevolence from it as part of her growing ability to sense the emotions of inanimate objects... that may also be all in her head. And it's also possible that storms and atmospheric effects and the difficulty of spaceflight are simply a side effect of magic in this universe. Between this and the general effects of Murphy's Law, as well as the fact that NASA really doesn't want to come out and say "We think Mars is evil and wants our astronauts dead," it stays ambiguous leaning slightly in favor.
+Genre Savvy: Mark is snapped out of his catatonic state when placed in a situation common to many sci-fi/horror movies:
+Mark: When you see an egg or a pod or a cocoon or anything like that in a space cave, especially if it's black, you leave it the fuck alone!!
+Gesundheit: When Starlight is suggesting new books to read, Fireball says "Bless you," after hearing the name Isaac Asimov.
+Get A Hold Of Yourself Man:
+After Dragonfly has cocooned herself, the others ask home for help getting her out again. What follows is Chrysalis's half sarcasm, half test prescription to wake her up again to test the others' reaction:
+Procedure for reviving Dragonfly. Take one stick. Apply vigorously to side of cocoon while shouting the following chant: wake up you lazy drone, quit draining people in your sleep, don't you know larvae are starving in Mareitania? Repeat as needed until desired results are achieved. Over.
+When Dragonfly finally emerges, Starlight Glimmer, afraid that Dragonfly has become a ravenous monster, attempts to apply Chrysalis's procedure. Dragonfly reacts about as you'd expect someone getting whacked on the head right after waking up to react.
+Afterwards, Spitfire keeps the stick and uses it to admonish Dragonfly for being too angsty. Once Cherry Berry figures out Spitfire's mostly doing it for her own relief, and that Dragonfly is going along with the gag, she puts a stop to it.
+Gosh Darn It to Heck!: Mark catches himself thinking "darn" rather than "damn" and wonders if he's been around the ponies for too long, despite regular exposure to Cherry's Sir Swears-a-Lot outbursts and Alien Troll Queen Spitfire. A few minutes later, however, he's back to his usual colorful vocabulary, so it was probably just a brief lapse.
+Green Around the Gills: As a consequence of Spitfire's "Crunch, crunch, crunch" prank, Mark goes a slightly palid green. Somewhat more impressively, so does Cherry Berry, through her bright pink coat.
+Higher-Tech Species: Both sides initially believe this of the other, and neither are necessarily wrong. (Earth computers/electronics/rockets are about half a century ahead of Equestria's, and the Equestrians have the benefit of Sufficiently Analyzed Magic.)
+Humans Are Smelly: Especially after a couple of weeks in close quarters with extremely limited hygiene facilities.
+Hurl It into the Sun: This is the plan for the repulsor spell launch system Mars test payload. Doesn't quite get there, but the final trajectory is close enough to vaporize the package.
+Hurricane of Puns: Mark occasionally indulges in his log. e.g. Sol 251 commentary on "rock farms":
+I must ask to see one of these "rock farms" they keep talking about. I bet they grow some smashing pumpkins along their black-eyed peas and red hot chili peppers. (And I know, somewhere, a music historian is groaning that this entry is a bunch of korn.)
+In Space, Everyone Can See Your Face: Averted with the first "Group Photo" sent to Earth after radio contact is reestablished. (Everyone had their polarized helmet visors down, and Starlight wasn't going to risk a lapse in concentration while maintaining an air bubble spell.)
+Insufficiently Advanced Alien: Mark's general reaction to Equestrian space flight after he learns a bit more about their unbelievably rapid space race.
+Interdimensional Travel Device:
+Unintended consequence of failure to limit the Sparkle Drive's collision avoidance system to just three dimensions. Later used purposefully for the search-and-rescue mission.
+The Mirror Portal to the Equestria Girls universe also makes a brief appearance.
+I Want My Jetpack: For all Mark's remarks about how the Equestrians are insane, he also states that they're exploring space the way humans should have, dang it!
+They're not wasting time with their space program. One day they just decided, "Let's go to space!" And from that day they threw everything they had at it — magic, science, courage, and political will. For most of my lifetime we had the science and the courage, but not the will. Now we've got it back. Don't give it up again.
+Language Barrier: An early obstacle that is initially overcome via temporary Translator Microbes (magic) and more permanently through hard work.
+The Last Man Heard a Knock...: As Mark concludes his Sol 6 "So I'm stuck alone on Mars" log entry, a knock on the airlock door gives him cause to reconsider the notion.
+Dragonfly: Bash all the things. But in a lawful good way. For the glory of Insert Deity Here.
+Let Us Never Speak of This Again: On Sol 234, Starlight doing a test with the magic batteries to create a temporary magic field results in a spontaneous song for the Equestrian castaways, and Mark gets caught into it. After the song ends, the human is rather amazed, but Starlight and Fireball inform him that they don't talk about it — ever. And that means, stop talking about it.
+Mana: A critical limiting factor in how much the ponies can contribute to survival on Mars. Life generates mana, which can be collected and stored in purpose-made batteries. So food production not only supplies needed calories for consumption, but also mana which can then be used to enhance earth pony agricultural abilities (Yay, more food!), cast useful spells, or enchant objects (like more batteries, or a replacement Sparkle Drive crystal). It is also later realized that changelings also feed off of ambient mana, and the other Equestrians require mana for their overall health.
+Meaningful Rename: The formerly nameless Ares IV MAVnote  is christened Phoenix by Cherry Berry, partly after the magical reviving bird, partly from an Earth story related to the ponies much earlier in the story. The new name turns out to be much more meaningful than originally intended.
+Multistage Teleport: Because the magic cost of a single teleport scales exponentially with distance jumped, the underlying principle of the Sparkle Drive uses very short, high-frequency jumps — typically less than 5 meters, performed several thousand times per second. (For reference, 1,000 one-meter jumps per second works out to just over 2,200 miles per hour, or about three times the speed of sound.)
+The Multiverse: Not just CSP Equestria and Mars. Exploration probes sent to locate the castaways find their way to several other alternate Equestrias (including Equestria Girls) and universes containing Transformers, Gundams...
+Mundane Utility: The Equestrians figure out a way to use the water dispensers in their spacesuits as a telegraph to communicate with their home.
+Nightmare Fuel: Following the successful test of the repulsor spell launch technique on Mars...
+Venkat: It worked perfectly. It worked absolutely perfectly.
+Mitch: I wish you hadn't said that...
+Venkat: Why's that?
+Mitch: Usually the first time you try to launch anything, it blows up on the pad. Or there's some other in-flight glitch. But everything went right in the test. So what's going to happen next time, when they do it for real?
+Venkat: [sighing] Thanks a lot, Mitch. I was just running short of nightmare fuel. Thanks very much for topping me off.
+No One Gets Left Behind: Toyed with, if not outright averted, in the case of Dragonfly. After she comes out of her cocoon, Starlight Glimmer points out that it's not about emotions or morals: the others simply won't be able to escape Mars without Dragonfly's unique abilities. (Though to be fair, emotions and morals would lead to the trope being upheld; it's just that there are more fundamental reasons for saving Dragonfly too.)
+Off the Rails: Once Mark and co. start playing D&D, we get a few incidents of this kind.
+Mark sets up an encounter with a Dread Gazebo. Starlight logically argues that her cleric can parley with it, charms it with the successful natural 20 roll she needed, and adds it to the party.
+Starlight begins her first stint as DM with a heavy-duty epic quest laid out at the party's feet. Fireball immediately suggests going airship pirate instead, with everyone else quickly agreeing. Cue Head Desk from Starlight.
+Oh, Crap!: Mark Watney's reaction upon seeing Fireball trying to scoop some perchlorate with a food pack.
+"Yeah. Open flame around magnesium perchlorate and an organic fuel source.
+Can you say, oh shit? Sure, I knew you could. And I'll be waiting here until your mommies get done washing your mouths out with soap."
+O.O.C. Is Serious Business:
+The other Equestrians notice that Dragonfly has stopped her usual "silly changeling" routine and are concerned that it may be concealing a more serious problem.
+Dr. Shields cites Mark's lack of snark as one symptom of the crew's exhaustion following Dragonfly's indisposition.
+Party Game: Of the classic variety, during the Summer Sun Celebration party (Sol 296): "Pin the Antenna in the Watney," using a locker, a spare jump suit, and the antenna fragment that got Mark stranded on Mars in the first place. Spitfire wins.
+Spitfire: We are not children. We will not let you act like we are children... Also tell Earth I show you what none of you will ever have.
+Retconjuration: In "Sol 479", a benevolent Eldritch Abomination Pinkie applies this to Angel 16's film record, ensuring that no unfortunate inter-dimensional leakage can occur, because said film record never existed in the first place.
+Rube Goldberg Device: The method devised by Mark and company for launching Phoenix; referred to as such by the NASA ground crew. The Sojourner rover is positioned at the low end of a seesaw and programmed to drive up it. When the high end tips down, it closes a circuit and triggers the ship's magic booster engines.
+Running Gag: The ponies, Starlight Glimmer in particular, repeatedly insisting that various failures of humanity or the universe they live in would be solved if only humans had immortal princesses ruling over them.
+Starlight Glimmer: Earth needs more princesses.
+Mark: [sighing] For the eighty-seventh time, it does not.
+Scrapbook Story: Much of the story is told through mission logs (some written by Mark, others by the ponies) and transcripts of communications between Mars, Earth, and Equestria.
+Sidetracked by the Analogy: After her recovery, Dragonfly apologizes to Mark with, "... I'm really sorry I sucked you dry and tossed you aside like a juice box." Mark gets hung up on the notion of pony juice boxes.
+"With the tiny little straw in the wrapper and everything?"
+"This isn't important," Starlight warned.
+"Yeah, sure," Dragonfly said. "Pony kids go around with 'em all the time."
+"But... but..." Mark appeared much more appalled at the thought of ponies with juice boxes than he'd been about being turned into an emotionless zombie. "But how in the hell do you even-"
+"FOCUS!!!" Starlight shouted.
+Slices, Dices, and Makes Julienne Fries: Mark's Sol 207 log entry mentions the line in reference to the utility of unicorn magic.
+Soap Punishment: From Sols 40-41:
+Can you say, "oh shit?" Sure, I knew you could. And I'll be waiting here until your mommies get done washing your mouths out with soap.
+Spontaneous Choreography: The spontaneous singingnote  part happens a couple of times, to the bewilderment of human observers and participants alike.
+Don't ask us why we sing
+It's just a pony thing
+— Dragonfly during the adaptation of Space Oddity.
+Switching P.O.V.: Narrative viewpoint rotates between the six castaways in limited third person (or first person in the case of Mark's journal entries) with occasional shifts to the crew of the Hermes, NASA personnel on Earth, or even back to Equestria. Every now and then, there are passages in omniscient third person. True to the source material, these tend to be harbingers of misfortune.
+Take Away Their Name: On Sol 107, as a misinterpretation of merchandise licensing:
+Mark read it again, frowned, and said, "License is permission to do a thing. In this case, a company wants to buy your name and face."
+"What??" Cherry Berry's forehooves flew to her face. "You said you have no magic! I still using those!"
+Teeth Flying: On Sol 90, after the crew stop Cherry Berry from resigning, notably through Fireball restraining her, she tells him to report to the medic for injuries... before giving him an uppercut hard enough to break a tooth. The dragon is less distressed by the pain than by the fact a pony broke his tooth, which he would never hear the end of it in the Dragon Lands.
+Tempting Fate: Any time one of the crew suggests that things are looking up, Murphy raises his head to snicker. After a few incidents, they learn to be more judicious about their statements.
+Time Out: Dragonfly earns one after getting caught investigating Mark’s computer. (This was before mutual trust and cooperation had been established.)
+Translator Microbes: Starlight has a spell that allows limited translation between English and Equestrian, but it has problems dealing with metaphors and technical jargon. This and the limited availability of magic makes learning English a priority for the Equestrians.
+Try Not to Die: Ember's message. Though the rest of the crew is a bit appalled, by dragons' standards that's rather mushy (according to Fireball).
+Sol 109:
+ESA: To Fireball. Message begins. Quote. By power of the Bloodstone Scepter you are ordered to not die, nor allow anyone with you to die, until we come to rescue you. You will demonstrate superior dragon strength, courage and wisdom by protecting your crewmates and keeping them safe from harm. This is a command from your lawful Dragonlord, and you shall obey! Got it? End quote. Over.
+T-Word Euphemism: Mark attempts to document one of Cherry's Sir Swearsalot incidents in his log:
+I'm sure that in among the angry horse noises was the F-bomb, the S-bomb, one or two Q-bombs and a Silent-J-bomb.
+The Unpronounceable: Mark describes the Equestrian language as "horse Welsh" and is physically incapable of reproducing several of its vowels. (His attempts to speak it generally result in embarrassingly scatological or anatomical phrases.)
+Unreliable Expositor: Dragonfly claims to sense first the emotions of certain inanimate things... and then to hear their voices. Considering that throughout the story she suffers from a steadily worsening case of magical malnutrition, this could be entirely in her head, as she is the first to admit. Or... possibly not...
+Unwinnable Training Simulation: Although it's mentioned that Cherry Berry failed her fair share of simulator runs learning to fly the MAV, one particular run personally overseen by Major Martinez on Hermes was designed to be unwinnable... and Cherry (with Spitfire as copilot) won it anyway. The solution involved jettisoning over six hundred kilograms of materiel out the airlock, misusing maneuvering thrusters to provide constant acceleration until the fuel ran out, then refilling them and doing it again. The ponies were about to get out and push the spaceship when the simulation program reported a successful result (i.e. eventual rendezvous with a simulated Hermes). And then Cherry shocks the humans on Hermes by saying she wasn't bothered because she's done all these things before in actual flight.
+The Whole World Is Watching: As in the source material, much of Earth's population is watching (with 12-minute lightspeed delay) as Phoenix leaves Mars to attempt rendezvous with Hermes. Over the subsequent hours as events unfold and the fate of the castaways becomes increasingly uncertain, the global audience starts to dwindle, but large numbers are still keeping vigil when Concordia jumps in from Equus space to make the rescue.
+"World's Best" Character: By way of an Overly Narrow Superlative. After the ponies spent a sol, on Mars, grooming for photos sent to NASA, Mark proudly claims, "I am, after all, the most popular and exclusive spa host on the whole planet."
+Your Other Left: A recurring problem upon the first test of the "Whinnybago", since the cockpit of the ex-Amicitas is mounted backward relative to the rover carrying it. Thus, the steering of the landing gear used as wheel must be reversed from whatever direction the rover is taking, leading to a lot of confusion and frustration for the designated pilot (Fireball). This is later solved by putting two half-circles of metal with graduations that are mirror-imaged over the respective steering wheels.
+
+
+
