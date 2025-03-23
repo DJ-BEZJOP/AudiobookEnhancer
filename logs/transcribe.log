@@ -1,0 +1,48 @@
+2025-03-21 06:06:37,985 - INFO - Loading Whisper model 'base' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 06:06:37,985 - INFO - Loading Whisper model 'base' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 06:06:38,941 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 06:06:38,941 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 06:13:01,559 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.txt
+2025-03-21 06:13:01,559 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.txt
+2025-03-21 07:05:58,442 - INFO - Loading Whisper model 'large-v3' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 07:05:58,442 - INFO - Loading Whisper model 'large-v3' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 07:07:30,486 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 07:07:30,486 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 09:38:08,314 - INFO - Running Whisper CLI command: whisper input/chunk_1_sol_6_7.mp3 --model turbo --language ru --output_format tsv --output_dir C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7 --verbose False
+2025-03-21 09:38:08,314 - INFO - Running Whisper CLI command: whisper input/chunk_1_sol_6_7.mp3 --model turbo --language ru --output_format tsv --output_dir C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7 --verbose False
+2025-03-21 09:44:43,076 - INFO - Running Whisper CLI command: whisper input/chunk_1_sol_6_7.mp3 --model turbo --language ru --output_format tsv --output_dir C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7 --verbose True
+2025-03-21 09:44:43,076 - INFO - Running Whisper CLI command: whisper input/chunk_1_sol_6_7.mp3 --model turbo --language ru --output_format tsv --output_dir C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7 --verbose True
+2025-03-21 09:45:12,543 - INFO - Whisper stdout: Skipping input/chunk_1_sol_6_7.mp3 due to UnicodeEncodeError: 'charmap' codec can't encode characters in position 27-29: character maps to <undefined>
+2025-03-21 09:45:12,543 - INFO - Whisper stdout: Skipping input/chunk_1_sol_6_7.mp3 due to UnicodeEncodeError: 'charmap' codec can't encode characters in position 27-29: character maps to <undefined>
+2025-03-21 09:45:12,543 - WARNING - Whisper stderr: Traceback (most recent call last):
+2025-03-21 09:45:12,543 - WARNING - Whisper stderr: Traceback (most recent call last):
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: File "C:\Users\poker\PycharmProjects\AudiobookEnhancer\.venv\Lib\site-packages\whisper\transcribe.py", line 597, in cli
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: File "C:\Users\poker\PycharmProjects\AudiobookEnhancer\.venv\Lib\site-packages\whisper\transcribe.py", line 597, in cli
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: result = transcribe(model, audio_path, temperature=temperature, **args)
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: result = transcribe(model, audio_path, temperature=temperature, **args)
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: File "C:\Users\poker\PycharmProjects\AudiobookEnhancer\.venv\Lib\site-packages\whisper\transcribe.py", line 466, in transcribe
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: File "C:\Users\poker\PycharmProjects\AudiobookEnhancer\.venv\Lib\site-packages\whisper\transcribe.py", line 466, in transcribe
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: print(make_safe(line))
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: print(make_safe(line))
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: File "C:\Users\poker\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: File "C:\Users\poker\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-03-21 09:45:13,218 - WARNING - Whisper stderr: return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+2025-03-21 09:45:13,223 - WARNING - Whisper stderr: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-21 09:45:13,223 - WARNING - Whisper stderr: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025-03-21 09:45:13,223 - WARNING - Whisper stderr: UnicodeEncodeError: 'charmap' codec can't encode characters in position 27-29: character maps to <undefined>
+2025-03-21 09:45:13,223 - WARNING - Whisper stderr: UnicodeEncodeError: 'charmap' codec can't encode characters in position 27-29: character maps to <undefined>
+2025-03-21 09:45:13,223 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.tsv
+2025-03-21 09:45:13,223 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.tsv
+2025-03-21 09:55:42,813 - INFO - Loading Whisper model 'turbo' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 09:55:42,813 - INFO - Loading Whisper model 'turbo' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 09:55:54,382 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 09:55:54,382 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 10:30:28,038 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.txt
+2025-03-21 10:30:28,038 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.txt
+2025-03-21 16:47:16,330 - INFO - Loading Whisper model 'turbo' for transcription of input/chunk_1_sol_6_7.mp3...
+2025-03-21 16:47:28,176 - INFO - Starting transcription of input/chunk_1_sol_6_7.mp3 with language=ru...
+2025-03-21 17:12:09,901 - INFO - Transcription completed! Result saved in C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\transcript.txt
+2025-03-21 17:12:09,901 - INFO - Transcription took 1481 seconds

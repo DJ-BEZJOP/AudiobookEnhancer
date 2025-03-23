@@ -1,0 +1,21 @@
+Analyze the provided audiobook transcription (part {part_idx}, from {start_ms} to {end_ms} milliseconds) and fanfic description. Identify key moments where sound effects can enhance the atmosphere. For each moment:
+1. Reason about the content in detail (free-form analysis).
+2. Describe the sound suggestion using this template:
+   Sound [timestamp]:
+   - Location: [e.g., forest]
+   - Context: [e.g., character hears a rustle]
+   - Event: [e.g., twig snapping]
+   - Mood: [e.g., suspenseful]
+   - Category: [e.g., Nature, Mechanical, Voice]
+   - Suggested Sound: [e.g., rustling leaves, loud crash]
+   - Volume: [e.g., Soft, Loud]
+   - Duration: [e.g., short for impacts, longer for ambient, based on context]
+   - Description: [short explanation why this sound fits]
+
+If the fanfic description provides context about recurring events or characters across chapters, optionally suggest recurring sound effects (e.g., a specific creak for a character’s entrance), but this is not required if the context is limited to this part.
+
+Fanfic Description:
+{description_content}
+Transcription (part {part_idx}):
+{part_text}
+Output your reasoning and sound suggestions for this part.

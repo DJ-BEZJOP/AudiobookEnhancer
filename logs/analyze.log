@@ -1,0 +1,346 @@
+2025-03-22 01:06:52,864 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 01:06:52,870 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 01:06:52,870 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 01:07:08,535 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 01:07:08,535 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 01:07:27,128 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 01:07:27,129 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 01:07:55,880 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 01:07:55,880 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 01:08:11,690 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 01:08:11,690 - INFO - Analysis completed for chunk_1_sol_6_7. Took 78 seconds.
+2025-03-22 01:29:30,135 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 01:29:30,135 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 01:29:30,140 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 01:29:30,140 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 01:29:30,140 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 01:29:30,140 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 01:29:30,144 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 01:29:30,145 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 01:29:30,147 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 01:29:59,021 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 01:29:59,021 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 01:30:33,580 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 01:30:33,580 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 01:31:07,043 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 01:31:07,043 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 01:31:33,380 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 01:31:33,380 - INFO - Analysis completed for chunk_1_sol_6_7. Took 123 seconds.
+2025-03-22 01:44:49,580 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 01:44:49,580 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 01:44:49,590 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 01:44:49,590 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 01:44:49,590 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 01:44:49,590 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 01:44:49,592 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 01:44:49,592 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 01:44:49,592 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 01:45:24,606 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 01:45:24,606 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 01:45:47,605 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 01:45:47,606 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 01:46:19,537 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 01:46:19,537 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 01:46:36,487 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 01:46:36,487 - INFO - Analysis completed for chunk_1_sol_6_7. Took 106 seconds.
+2025-03-22 02:09:32,490 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:09:32,490 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:09:32,501 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:09:32,501 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:09:32,501 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:09:32,501 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:09:32,501 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:09:32,504 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:09:32,504 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:10:02,006 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 02:10:02,006 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:10:15,891 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 02:10:15,901 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:10:44,282 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:10:44,282 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:10:44,282 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:10:44,291 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:10:44,291 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:10:44,291 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:10:44,291 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:10:44,291 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:10:51,642 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:10:51,642 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:10:51,642 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:10:51,642 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:10:51,642 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:10:51,642 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:10:51,651 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:10:51,651 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:11:07,401 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:11:07,410 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:11:07,410 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:11:07,410 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:11:07,410 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:11:07,410 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:11:07,410 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:11:07,410 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:12:48,107 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:12:48,107 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:12:48,107 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:12:48,108 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:12:48,108 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:12:48,108 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:12:48,109 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:12:48,112 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:12:48,112 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:13:22,704 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 02:13:22,704 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:13:40,281 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 02:13:40,281 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:14:00,991 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 02:14:00,991 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:14:26,921 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 02:14:26,921 - INFO - Analysis completed for chunk_1_sol_6_7. Took 98 seconds.
+2025-03-22 02:33:24,701 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:33:24,702 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:33:24,703 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:33:24,703 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:33:24,704 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:33:24,704 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:33:24,705 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:33:24,707 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:33:24,708 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:34:01,001 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 02:34:01,001 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:34:22,681 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 02:34:22,681 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:34:47,852 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 02:34:47,852 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:35:14,084 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 02:35:14,084 - INFO - Analysis completed for chunk_1_sol_6_7. Took 109 seconds.
+2025-03-22 02:40:22,621 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:40:22,622 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:40:22,622 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:40:22,623 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:40:22,623 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:40:22,624 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:40:22,624 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:40:22,628 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:40:22,629 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:41:13,799 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 02:41:13,799 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:41:30,204 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 02:41:30,204 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:41:49,503 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 02:41:49,503 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:42:05,071 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 02:42:05,071 - INFO - Analysis completed for chunk_1_sol_6_7. Took 102 seconds.
+2025-03-22 02:42:09,784 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:42:09,784 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 02:42:09,785 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:42:09,785 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 02:42:09,786 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:42:09,786 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 02:42:09,787 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 02:42:09,789 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 02:42:09,789 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:42:50,971 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 02:42:50,971 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 02:43:09,946 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 02:43:09,947 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:43:28,494 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 02:43:28,494 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 02:43:43,518 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 02:43:43,518 - INFO - Analysis completed for chunk_1_sol_6_7. Took 93 seconds.
+2025-03-22 03:45:06,734 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 03:45:06,735 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 03:45:06,735 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 03:45:06,736 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 03:45:06,736 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 03:45:06,737 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 03:45:06,738 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 03:45:06,739 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 03:45:06,740 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 03:45:52,734 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 03:45:52,734 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 03:46:20,511 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 03:46:20,511 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 03:47:35,011 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 03:47:35,011 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 03:47:50,881 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 03:47:50,881 - INFO - Analysis completed for chunk_1_sol_6_7. Took 164 seconds.
+2025-03-22 03:51:53,776 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 03:51:53,776 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 03:51:53,777 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 03:51:53,777 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 03:51:53,778 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 03:51:53,778 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 03:51:53,779 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 03:51:53,781 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 03:51:53,781 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 03:52:06,070 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 03:52:06,070 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 03:52:06,070 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 03:52:06,071 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 03:52:06,071 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 03:52:06,071 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 03:52:06,072 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 03:52:06,072 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 03:52:06,072 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 03:52:39,962 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 03:52:39,962 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 03:53:01,071 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 03:53:01,071 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 03:53:29,212 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 03:53:29,212 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 03:53:45,671 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 03:53:45,671 - INFO - Analysis completed for chunk_1_sol_6_7. Took 99 seconds.
+2025-03-22 05:12:21,272 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:12:21,273 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:12:21,273 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:12:21,273 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:12:21,274 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:12:21,274 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:12:21,276 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:12:21,277 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:12:21,278 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:12:54,179 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:12:54,180 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:13:26,235 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:13:26,236 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:13:56,432 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:13:56,432 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:14:09,975 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:14:09,975 - INFO - Analysis completed for chunk_1_sol_6_7. Took 108 seconds.
+2025-03-22 05:23:55,716 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:23:55,717 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:23:55,718 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:23:55,718 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:23:55,719 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:23:55,719 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:23:55,721 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:23:55,723 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:23:55,723 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:24:40,598 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:24:40,598 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:25:01,577 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:25:01,578 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:25:36,823 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:25:36,823 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:26:01,821 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:26:01,821 - INFO - Analysis completed for chunk_1_sol_6_7. Took 126 seconds.
+2025-03-22 05:28:12,691 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:28:12,691 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:28:12,692 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:28:12,692 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:28:12,693 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:28:12,693 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:28:12,695 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:28:12,696 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:28:12,697 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:28:47,122 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:28:47,122 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:29:10,207 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:29:10,208 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:29:36,921 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:29:36,921 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:29:59,039 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:29:59,039 - INFO - Analysis completed for chunk_1_sol_6_7. Took 106 seconds.
+2025-03-22 05:32:39,388 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:32:39,389 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:32:39,389 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:32:39,390 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:32:39,390 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:32:39,390 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:32:39,392 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:32:39,393 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:32:39,393 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:33:17,769 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:33:17,769 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:33:44,190 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:33:44,191 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:34:14,664 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:34:14,664 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:34:27,030 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:34:27,030 - INFO - Analysis completed for chunk_1_sol_6_7. Took 107 seconds.
+2025-03-22 05:39:19,280 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:39:19,280 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:39:19,281 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:39:19,281 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:39:19,282 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:39:19,282 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:39:19,283 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:39:19,285 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:39:19,286 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:39:52,847 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:39:52,847 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:40:16,078 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:40:16,078 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:40:40,142 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:40:40,142 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:40:58,619 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:40:58,619 - INFO - Analysis completed for chunk_1_sol_6_7. Took 99 seconds.
+2025-03-22 05:41:08,923 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:41:08,923 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:41:08,924 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:41:08,924 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:41:08,925 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:41:08,925 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:41:08,927 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:41:08,928 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:41:08,929 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:41:47,298 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:41:47,298 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:42:10,808 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:42:10,809 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:42:33,723 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:42:33,723 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:42:54,662 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:42:54,662 - INFO - Analysis completed for chunk_1_sol_6_7. Took 105 seconds.
+2025-03-22 05:48:47,375 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:48:47,375 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:48:47,376 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:48:47,376 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:48:47,377 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:48:47,377 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:48:47,379 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:48:47,380 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:48:47,381 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:49:29,413 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:49:29,415 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:49:53,387 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:49:53,388 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:50:19,556 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:50:19,556 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:50:41,909 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:50:41,909 - INFO - Analysis completed for chunk_1_sol_6_7. Took 114 seconds.
+2025-03-22 05:51:36,753 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:51:36,755 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 05:51:36,755 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:51:36,756 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 05:51:36,756 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:51:36,756 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 05:51:36,758 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 05:51:36,759 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 05:51:36,760 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:52:03,796 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 05:52:03,797 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 05:52:29,813 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 05:52:29,815 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:52:48,113 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 05:52:48,113 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 05:53:04,850 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 05:53:04,850 - INFO - Analysis completed for chunk_1_sol_6_7. Took 88 seconds.
+2025-03-22 14:47:57,114 - INFO - Cleared old directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 14:47:57,115 - INFO - Created directory: output/chunk_1_sol_6_7\transcript_parts
+2025-03-22 14:47:57,116 - INFO - Cleared old directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 14:47:57,117 - INFO - Created directory: output/chunk_1_sol_6_7\music_analysis
+2025-03-22 14:47:57,120 - INFO - Cleared old directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 14:47:57,120 - INFO - Created directory: output/chunk_1_sol_6_7\sounds_analysis
+2025-03-22 14:47:57,122 - INFO - Saved transcript part 1 to output/chunk_1_sol_6_7\transcript_parts\part1.txt
+2025-03-22 14:47:57,124 - INFO - Saved transcript part 2 to output/chunk_1_sol_6_7\transcript_parts\part2.txt
+2025-03-22 14:47:57,133 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 14:48:17,288 - INFO - Music analysis (part 1) saved to output/chunk_1_sol_6_7\music_analysis\part1.txt
+2025-03-22 14:48:17,288 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 1)...
+2025-03-22 14:48:52,647 - INFO - Sounds analysis (part 1) saved to output/chunk_1_sol_6_7\sounds_analysis\part1.txt
+2025-03-22 14:48:52,648 - INFO - Processing music analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 14:49:11,728 - INFO - Music analysis (part 2) saved to output/chunk_1_sol_6_7\music_analysis\part2.txt
+2025-03-22 14:49:11,728 - INFO - Processing sounds analysis for chunk_1_sol_6_7 (part 2)...
+2025-03-22 14:49:25,775 - INFO - Sounds analysis (part 2) saved to output/chunk_1_sol_6_7\sounds_analysis\part2.txt
+2025-03-22 14:49:25,775 - INFO - Analysis completed for chunk_1_sol_6_7. Took 88 seconds.

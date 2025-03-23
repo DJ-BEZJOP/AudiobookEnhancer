@@ -1,0 +1,49 @@
+Analyze the provided audiobook transcription (part {part_idx}, from {start_ms} to {end_ms} milliseconds) and fanfic description. Instead of breaking the text into individual scenes, group related moments into 2-3 larger narrative arcs based on the story’s natural progression—such as shifts in focus, emotional tone, or major plot developments. Each arc should span multiple related events and provide a cohesive segment of the narrative, avoiding overly narrow or fragmented divisions.
+
+For each narrative arc:
+1. Reason about the content in detail (free-form analysis), explaining how the grouped moments form a unified arc.
+2. Describe the arc using this template:
+   Arc [start-end]:
+   - Location: 
+   - Characters: 
+   - Events: 
+   - Arc Tone: 
+   - Description: 
+   - Music Recommendation: 
+     - Main Theme:
+       - Needed: Yes
+       - Start Time: 
+       - End Time: 
+       - Priority: [High/Medium/Low]
+       - Purpose: 
+       - Style: 
+       - Volume: 
+       - Tempo: 
+       - Duration: [Target 3-5 minutes]
+     - Optional Accent (if applicable):
+       - Needed: [Yes/No]
+       - Start Time: 
+       - End Time: 
+       - Priority: [High/Medium/Low]
+       - Purpose: 
+       - Style: 
+       - Volume: 
+       - Tempo: 
+       - Duration: [Target 30-60 seconds]
+
+For each arc, recommend a Main Theme with a duration of 3-5 minutes to create a strong, immersive atmosphere that reflects the arc’s overall tone and purpose. Select the Start Time at the beginning of the arc or a pivotal moment that sets its mood, and calculate End Time as Start Time + Duration, adjusting if it exceeds the arc’s end. Optionally, add one short Accent (30-60 seconds) within the arc to highlight a specific high-impact moment (e.g., a dramatic reveal or emotional peak), ensuring it complements the Main Theme without overlapping excessively. Use transcription timestamps only to define arc boundaries, not to dictate music placement—base music timings on the arc’s narrative flow.
+
+The transcription part spans from {start_ms} to {end_ms} milliseconds (total duration: {total_duration_seconds} seconds). Aim for music to cover roughly a third of the part’s duration through the combined Main Themes and Accents, prioritizing immersive storytelling. Focus Main Themes on the arc’s dominant mood or progression, and use Accents sparingly for precision.
+
+After describing all arcs, provide a separate list of music recommendations with specific timings, using this format:
+Music Recommendations List (Total Duration: [total_music_duration] seconds, [percentage]% of part duration):
+- [start_time]-[end_time] ms: [Style], [Purpose], [Duration], [Label: Priority - Purpose]
+- [start_time]-[end_time] ms: [Style], [Purpose], [Duration], [Label: Priority - Purpose]
+...
+Sort by Start Time. Use labels like "High - Establish Tension" or "Medium - Highlight Reveal". If music coverage falls significantly below a third, extend Main Theme durations or add subtle low-priority Accents; if it exceeds half, trim lower-priority elements.
+
+Fanfic Description:
+{description_content}
+Transcription (part {part_idx}):
+{part_text}
+Output your reasoning, arc descriptions, and the Music Recommendations List for this part.

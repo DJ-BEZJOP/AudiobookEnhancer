@@ -1,0 +1,13 @@
+Analyze the combined music analysis files below, which contain scene descriptions and music recommendations from multiple parts of an audiobook. Reason about them freely, then output a consolidated list of music regions with start, end, length (in milliseconds), and name. Use the Priority field (High/Medium/Low) from the analysis to prefix the name (e.g., "High: Dramatic Tension"). Format it like this:
+Start,End,Length,Name
+0,60000,60000,High: Calm - Exposition
+60000,120000,60000,Medium: Tense - Conflict
+Put the list inside triple backticks (```) like this:
+```
+Start,End,Length,Name
+0,60000,60000,High: Calm - Exposition
+```
+Ensure no overlapping regions; if overlaps occur, adjust the End time of the earlier region to match the Start time of the next. Timestamps must be in milliseconds.
+
+Music Analysis Contents:
+{music_parts}

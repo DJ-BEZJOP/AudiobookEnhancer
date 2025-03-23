@@ -1,0 +1,20 @@
+Position	Name
+00:05:02:24	Rocket Ignition
+00:05:59:08	Metallic Bang - Ship Jolt
+00:08:23:25	Emergency Alarm
+00:08:29:28	Electrical Crackle - Power Loss
+00:11:42:17	Radio Static - Silence
+00:15:01:04	Crystal Shattering - Debris
+00:17:39:02	Solar Panel Creak
+00:19:18:21	System Shutdown
+00:21:13:29	Crew Gasp - Planet Rumble
+00:27:51:22	Atmospheric Entry
+00:28:17:24	Solar Panel Tear
+00:28:22:24	Parachute Deploy - Rip
+00:29:07:23	Crash Landing
+00:31:08:01	Airlock Knock
+00:35:14:25	Airlock Hiss - Footsteps
+00:37:39:03	Spacecraft Hum - Distorted Breath
+00:41:42:16	UI Sound - Ambient Drone
+00:47:35:25	Hab Hum - Equipment Whir
+00:53:11:15	Alien Pony Clip-Clop

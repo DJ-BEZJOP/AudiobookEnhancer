@@ -1,0 +1,13 @@
+Analyze the combined sound analysis files below, which contain sound suggestions from multiple parts of an audiobook. Reason about them freely, then output a consolidated list of sound markers with timestamps (in milliseconds) and names. Format it like this:
+Position,Name
+150000,Metallic Clang - Engine Bang
+180000,Rustling Leaves - Suspense
+Put the list inside triple backticks (```) like this:
+```
+Position,Name
+150000,Metallic Clang - Engine Bang
+```
+Timestamps must be in milliseconds.
+
+Sounds Analysis Contents:
+{sound_parts}

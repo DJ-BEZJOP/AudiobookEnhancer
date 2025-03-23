@@ -1,0 +1,50 @@
+AudiobookEnhancer/
+├── input/                          # Input files
+│   ├── chunk_1_sol_6_7.mp3         # Audio file
+│   └── fanfic_description.txt      # Description of the fanfic
+├── output/                         # Output files
+│   ├── chunk_1_sol_6_7/            # Folder for each chunk (named after the mp3 file)
+│   │   ├── transcript.txt          # Transcription (created by transcribe.py)
+│   │   ├── transcript_parts/       # Split transcript parts (created by analyze.py)
+│   │   │   ├── part1.txt
+│   │   │   └── part2.txt
+│   │   ├── music_analysis/         # Music analysis (created by analyze.py)
+│   │   │   ├── part1.txt
+│   │   │   └── part2.txt
+│   │   ├── sounds_analysis/        # Sounds analysis (created by analyze.py)
+│   │   │   ├── part1.txt
+│   │   │   └── part2.txt
+│   │   ├── export_vegas/           # Export files for Vegas (created by export_vegas.py)
+│   │   │   ├── music_regions.txt   # Music regions for Vegas
+│   │   │   └── sound_markers.txt   # Sound markers for Vegas
+├── src/                            # Source code
+│   ├── core/                       # Core scripts
+│   │   ├── transcribe.py           # To be updated
+│   │   ├── analyze.py              # To be updated
+│   │   └── export_vegas.py         # To be updated
+│   ├── utils/                      # Utilities
+│   │   └── api.py                  # To be updated
+│   ├── gui/                        # GUI (to be added later)
+│   │   └── app.py
+├── config/                         # Configuration files
+│   ├── config.py                   # To be updated
+│   └── settings.json               # To be created
+├── prompts/                        # Prompts for Gemini
+│   ├── analyze/                    # Prompts for analyze.py
+│   │   ├── music.txt
+│   │   └── sounds.txt
+│   ├── export_vegas/               # Prompts for export_vegas.py
+│   │   ├── music_regions.txt
+│   │   └── sound_markers.txt
+├── docs/                           # Documentation
+│   ├── usage.md
+│   └── demo.gif
+├── logs/                           # Logs
+│   ├── transcribe.log              # To be created
+│   ├── analyze.log
+│   └── export_vegas.log
+├── .gitignore
+├── CHANGELOG.md
+├── LICENSE
+├── requirements.txt
+└── README.md

@@ -1,0 +1,10 @@
+Start	End	Length	Name
+00:00:00:00	00:05:00:00	00:05:00:00	High: Establish Optimism
+00:08:25:14	00:08:55:14	00:00:30:00	Medium: Highlight Malfunction
+00:09:22:20	00:14:22:20	00:05:00:00	High: Build Tension & Urgency
+00:29:07:23	00:29:37:23	00:00:30:00	Medium: Emphasize Crash Impact
+00:29:46:20	00:31:08:01	00:01:21:10	Medium: Grim Aftermath & Mystery
+00:31:08:01	00:31:09:27	00:00:01:26	Medium: Highlight Cliffhanger
+00:34:55:07	00:41:42:16	00:06:47:09	High: Establish Departure and Suspense
+00:41:42:16	00:41:45:16	00:00:03:00	Medium: Highlight Mission Reveal
+00:47:35:25	00:56:40:00	00:09:04:04	High: Establish First Contact Adventure

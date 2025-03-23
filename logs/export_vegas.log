@@ -1,0 +1,50 @@
+2025-03-22 04:05:50,779 - INFO - Created directory: C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas
+2025-03-22 04:05:50,780 - INFO - Creating music regions for chunk_1_sol_6_7...
+2025-03-22 04:07:02,384 - ERROR - Error accessing time module: cannot access local variable 'time' where it is not associated with a value
+2025-03-22 04:25:37,892 - INFO - Starting export for chunk: chunk_1_sol_6_7
+2025-03-22 04:25:37,892 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part1.txt
+2025-03-22 04:25:37,892 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part2.txt
+2025-03-22 04:25:37,892 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part1.txt
+2025-03-22 04:25:37,892 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part2.txt
+2025-03-22 04:25:37,892 - INFO - Prompts loaded successfully
+2025-03-22 04:25:37,892 - INFO - Sending music prompt to Gemini...
+2025-03-22 04:25:48,161 - INFO - Received music response from Gemini
+2025-03-22 04:25:48,163 - INFO - Music regions saved to C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas\music_regions.txt
+2025-03-22 04:25:48,163 - INFO - Sending sound prompt to Gemini...
+2025-03-22 04:25:53,342 - INFO - Received sound response from Gemini
+2025-03-22 04:25:53,344 - INFO - Sound markers saved to C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas\sound_markers.txt
+2025-03-22 04:25:53,345 - INFO - Export completed for chunk_1_sol_6_7. Took 15 seconds.
+2025-03-22 05:14:51,461 - INFO - Starting export for chunk: chunk_1_sol_6_7
+2025-03-22 05:14:51,462 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part1.txt
+2025-03-22 05:14:51,462 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part2.txt
+2025-03-22 05:14:51,472 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part1.txt
+2025-03-22 05:14:51,479 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part2.txt
+2025-03-22 05:14:51,480 - INFO - Prompts loaded successfully
+2025-03-22 05:14:51,480 - INFO - Sending music prompt to Gemini...
+2025-03-22 05:15:02,990 - INFO - Received music response from Gemini
+2025-03-22 05:15:24,045 - INFO - Starting export for chunk: chunk_1_sol_6_7
+2025-03-22 05:15:24,046 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part1.txt
+2025-03-22 05:15:24,046 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part2.txt
+2025-03-22 05:15:24,047 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part1.txt
+2025-03-22 05:15:24,047 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part2.txt
+2025-03-22 05:15:24,047 - INFO - Prompts loaded successfully
+2025-03-22 05:15:24,048 - INFO - Sending music prompt to Gemini...
+2025-03-22 05:15:38,765 - INFO - Received music response from Gemini
+2025-03-22 05:15:38,765 - INFO - Music regions saved to C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas\music_regions.txt
+2025-03-22 05:15:38,766 - INFO - Sending sound prompt to Gemini...
+2025-03-22 05:15:42,841 - INFO - Received sound response from Gemini
+2025-03-22 05:15:42,842 - INFO - Sound markers saved to C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas\sound_markers.txt
+2025-03-22 05:15:42,843 - INFO - Export completed for chunk_1_sol_6_7. Took 18 seconds.
+2025-03-22 14:50:26,645 - INFO - Starting export for chunk: chunk_1_sol_6_7
+2025-03-22 14:50:26,646 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part1.txt
+2025-03-22 14:50:26,646 - INFO - Loaded music file: output/chunk_1_sol_6_7/music_analysis/part2.txt
+2025-03-22 14:50:26,654 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part1.txt
+2025-03-22 14:50:26,662 - INFO - Loaded sound file: output/chunk_1_sol_6_7/sounds_analysis/part2.txt
+2025-03-22 14:50:26,674 - INFO - Prompts loaded successfully
+2025-03-22 14:50:26,675 - INFO - Sending music prompt to Gemini...
+2025-03-22 14:50:43,836 - INFO - Received music response from Gemini
+2025-03-22 14:50:43,837 - INFO - Music regions saved to C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas\music_regions.txt
+2025-03-22 14:50:43,837 - INFO - Sending sound prompt to Gemini...
+2025-03-22 14:50:48,929 - INFO - Received sound response from Gemini
+2025-03-22 14:50:48,931 - INFO - Sound markers saved to C:\Users\poker\PycharmProjects\AudiobookEnhancer\output\chunk_1_sol_6_7\export_vegas\sound_markers.txt
+2025-03-22 14:50:48,931 - INFO - Export completed for chunk_1_sol_6_7. Took 22 seconds.

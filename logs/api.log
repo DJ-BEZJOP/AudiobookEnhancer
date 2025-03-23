@@ -1,0 +1,312 @@
+2025-03-22 01:06:52,870 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69140 characters...
+2025-03-22 01:07:08,533 - INFO - Request successful.
+2025-03-22 01:07:08,535 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 01:07:27,127 - INFO - Request successful.
+2025-03-22 01:07:27,130 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65812 characters...
+2025-03-22 01:07:55,880 - INFO - Request successful.
+2025-03-22 01:07:55,880 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 01:08:11,690 - INFO - Request successful.
+2025-03-22 01:29:30,147 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69140 characters...
+2025-03-22 01:29:59,019 - INFO - Request successful.
+2025-03-22 01:29:59,021 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 01:30:33,580 - INFO - Request successful.
+2025-03-22 01:30:33,580 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65812 characters...
+2025-03-22 01:31:07,042 - INFO - Request successful.
+2025-03-22 01:31:07,043 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 01:31:33,379 - INFO - Request successful.
+2025-03-22 01:44:49,855 - INFO - Prompt token count: 25355
+2025-03-22 01:44:49,855 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69140 characters...
+2025-03-22 01:45:24,605 - INFO - Token usage: prompt=25356, output=4497, total=29853
+2025-03-22 01:45:24,605 - INFO - Request successful.
+2025-03-22 01:45:24,864 - INFO - Prompt token count: 25341
+2025-03-22 01:45:24,865 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 01:45:47,604 - INFO - Token usage: prompt=25342, output=2473, total=27815
+2025-03-22 01:45:47,605 - INFO - Request successful.
+2025-03-22 01:45:47,816 - INFO - Prompt token count: 24717
+2025-03-22 01:45:47,816 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65812 characters...
+2025-03-22 01:46:19,536 - INFO - Token usage: prompt=24718, output=3101, total=27819
+2025-03-22 01:46:19,536 - INFO - Request successful.
+2025-03-22 01:46:19,973 - INFO - Prompt token count: 24703
+2025-03-22 01:46:19,974 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 01:46:36,486 - INFO - Token usage: prompt=24704, output=1494, total=26198
+2025-03-22 01:46:36,486 - INFO - Request successful.
+2025-03-22 02:09:32,848 - INFO - Prompt token count: 25355
+2025-03-22 02:09:32,848 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69140 characters...
+2025-03-22 02:10:02,001 - INFO - Token usage: prompt=25356, output=2576, total=27932
+2025-03-22 02:10:02,001 - INFO - Request successful.
+2025-03-22 02:10:02,241 - INFO - Prompt token count: 25341
+2025-03-22 02:10:02,241 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 02:10:15,891 - INFO - Token usage: prompt=25342, output=1351, total=26693
+2025-03-22 02:10:15,891 - INFO - Request successful.
+2025-03-22 02:10:16,181 - INFO - Prompt token count: 24717
+2025-03-22 02:10:16,181 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65812 characters...
+2025-03-22 02:12:48,509 - INFO - Prompt token count: 26128
+2025-03-22 02:12:48,509 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 72105 characters...
+2025-03-22 02:13:22,704 - INFO - Token usage: prompt=26129, output=5072, total=31201
+2025-03-22 02:13:22,704 - INFO - Request successful.
+2025-03-22 02:13:23,111 - INFO - Prompt token count: 25341
+2025-03-22 02:13:23,111 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 02:13:40,281 - INFO - Token usage: prompt=25342, output=1553, total=26895
+2025-03-22 02:13:40,281 - INFO - Request successful.
+2025-03-22 02:13:40,611 - INFO - Prompt token count: 25497
+2025-03-22 02:13:40,611 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68784 characters...
+2025-03-22 02:14:00,986 - INFO - Token usage: prompt=25498, output=1950, total=27448
+2025-03-22 02:14:00,986 - INFO - Request successful.
+2025-03-22 02:14:01,331 - INFO - Prompt token count: 24703
+2025-03-22 02:14:01,331 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 02:14:26,911 - INFO - Token usage: prompt=24704, output=1648, total=26352
+2025-03-22 02:14:26,911 - INFO - Request successful.
+2025-03-22 02:33:25,087 - INFO - Prompt token count: 26490
+2025-03-22 02:33:25,088 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 73514 characters...
+2025-03-22 02:34:01,001 - INFO - Token usage: prompt=26491, output=5837, total=32328
+2025-03-22 02:34:01,001 - INFO - Request successful.
+2025-03-22 02:34:01,271 - INFO - Prompt token count: 25341
+2025-03-22 02:34:01,271 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 02:34:22,681 - INFO - Token usage: prompt=25342, output=2546, total=27888
+2025-03-22 02:34:22,681 - INFO - Request successful.
+2025-03-22 02:34:23,131 - INFO - Prompt token count: 25861
+2025-03-22 02:34:23,131 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 70195 characters...
+2025-03-22 02:34:47,851 - INFO - Token usage: prompt=25862, output=4617, total=30479
+2025-03-22 02:34:47,851 - INFO - Request successful.
+2025-03-22 02:34:48,186 - INFO - Prompt token count: 24703
+2025-03-22 02:34:48,186 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 02:35:14,083 - INFO - Token usage: prompt=24704, output=3408, total=28112
+2025-03-22 02:35:14,083 - INFO - Request successful.
+2025-03-22 02:40:23,128 - INFO - Prompt token count: 26490
+2025-03-22 02:40:23,129 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 73514 characters...
+2025-03-22 02:41:13,797 - INFO - Token usage: prompt=26491, output=4768, total=31259
+2025-03-22 02:41:13,798 - INFO - Request successful.
+2025-03-22 02:41:14,145 - INFO - Prompt token count: 25341
+2025-03-22 02:41:14,146 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 02:41:30,203 - INFO - Token usage: prompt=25342, output=1944, total=27286
+2025-03-22 02:41:30,203 - INFO - Request successful.
+2025-03-22 02:41:30,595 - INFO - Prompt token count: 25861
+2025-03-22 02:41:30,596 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 70195 characters...
+2025-03-22 02:41:49,501 - INFO - Token usage: prompt=25862, output=2575, total=28437
+2025-03-22 02:41:49,502 - INFO - Request successful.
+2025-03-22 02:41:49,743 - INFO - Prompt token count: 24703
+2025-03-22 02:41:49,743 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 02:42:05,069 - INFO - Token usage: prompt=24704, output=1629, total=26333
+2025-03-22 02:42:05,070 - INFO - Request successful.
+2025-03-22 02:42:10,067 - INFO - Prompt token count: 26838
+2025-03-22 02:42:10,067 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 74823 characters...
+2025-03-22 02:42:50,965 - INFO - Token usage: prompt=26839, output=3937, total=30776
+2025-03-22 02:42:50,971 - INFO - Request successful.
+2025-03-22 02:42:51,228 - INFO - Prompt token count: 25341
+2025-03-22 02:42:51,228 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69141 characters...
+2025-03-22 02:43:09,944 - INFO - Token usage: prompt=25342, output=1245, total=26587
+2025-03-22 02:43:09,944 - INFO - Request successful.
+2025-03-22 02:43:10,290 - INFO - Prompt token count: 26209
+2025-03-22 02:43:10,291 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71504 characters...
+2025-03-22 02:43:28,493 - INFO - Token usage: prompt=26210, output=1509, total=27719
+2025-03-22 02:43:28,493 - INFO - Request successful.
+2025-03-22 02:43:28,817 - INFO - Prompt token count: 24703
+2025-03-22 02:43:28,817 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 65813 characters...
+2025-03-22 02:43:43,517 - INFO - Token usage: prompt=24704, output=920, total=25624
+2025-03-22 02:43:43,517 - INFO - Request successful.
+2025-03-22 03:45:07,081 - INFO - Prompt token count: 26012
+2025-03-22 03:45:07,081 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71742 characters...
+2025-03-22 03:45:52,731 - INFO - Token usage: prompt=26013, output=7072, total=33085
+2025-03-22 03:45:52,731 - INFO - Request successful.
+2025-03-22 03:45:52,931 - INFO - Prompt token count: 25427
+2025-03-22 03:45:52,931 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 03:46:20,511 - INFO - Token usage: prompt=25428, output=2957, total=28385
+2025-03-22 03:46:20,511 - INFO - Request successful.
+2025-03-22 03:46:20,776 - INFO - Prompt token count: 25382
+2025-03-22 03:46:20,776 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68422 characters...
+2025-03-22 03:47:35,001 - INFO - Token usage: prompt=25383, output=14594, total=39977
+2025-03-22 03:47:35,011 - INFO - Request successful.
+2025-03-22 03:47:35,282 - INFO - Prompt token count: 24789
+2025-03-22 03:47:35,282 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 03:47:50,881 - INFO - Token usage: prompt=24790, output=1015, total=25805
+2025-03-22 03:47:50,881 - INFO - Request successful.
+2025-03-22 03:51:54,083 - INFO - Prompt token count: 26085
+2025-03-22 03:51:54,083 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71932 characters...
+2025-03-22 03:52:06,341 - INFO - Prompt token count: 26085
+2025-03-22 03:52:06,341 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71932 characters...
+2025-03-22 03:52:39,962 - INFO - Token usage: prompt=26086, output=4600, total=30686
+2025-03-22 03:52:39,962 - INFO - Request successful.
+2025-03-22 03:52:40,226 - INFO - Prompt token count: 25427
+2025-03-22 03:52:40,226 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 03:53:01,071 - INFO - Token usage: prompt=25428, output=1543, total=26971
+2025-03-22 03:53:01,071 - INFO - Request successful.
+2025-03-22 03:53:01,261 - INFO - Prompt token count: 25455
+2025-03-22 03:53:01,261 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68612 characters...
+2025-03-22 03:53:29,206 - INFO - Token usage: prompt=25456, output=2652, total=28108
+2025-03-22 03:53:29,206 - INFO - Request successful.
+2025-03-22 03:53:30,182 - INFO - Prompt token count: 24789
+2025-03-22 03:53:30,182 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 03:53:45,671 - INFO - Token usage: prompt=24790, output=1706, total=26496
+2025-03-22 03:53:45,671 - INFO - Request successful.
+2025-03-22 04:25:38,157 - INFO - Prompt token count: 7401
+2025-03-22 04:25:38,157 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 27475 characters...
+2025-03-22 04:25:48,161 - INFO - Token usage: prompt=7402, output=443, total=7845
+2025-03-22 04:25:48,161 - INFO - Request successful.
+2025-03-22 04:25:48,310 - INFO - Prompt token count: 3365
+2025-03-22 04:25:48,310 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 14124 characters...
+2025-03-22 04:25:53,340 - INFO - Token usage: prompt=3366, output=294, total=3660
+2025-03-22 04:25:53,342 - INFO - Request successful.
+2025-03-22 05:12:22,634 - INFO - Prompt token count: 25691
+2025-03-22 05:12:22,634 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 70549 characters...
+2025-03-22 05:12:54,178 - INFO - Token usage: prompt=25692, output=3847, total=29539
+2025-03-22 05:12:54,179 - INFO - Request successful.
+2025-03-22 05:12:54,467 - INFO - Prompt token count: 25427
+2025-03-22 05:12:54,467 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:13:26,234 - INFO - Token usage: prompt=25428, output=1934, total=27362
+2025-03-22 05:13:26,234 - INFO - Request successful.
+2025-03-22 05:13:26,519 - INFO - Prompt token count: 25061
+2025-03-22 05:13:26,520 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 67229 characters...
+2025-03-22 05:13:56,431 - INFO - Token usage: prompt=25062, output=3754, total=28816
+2025-03-22 05:13:56,431 - INFO - Request successful.
+2025-03-22 05:13:56,634 - INFO - Prompt token count: 24789
+2025-03-22 05:13:56,635 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:14:09,974 - INFO - Token usage: prompt=24790, output=1249, total=26039
+2025-03-22 05:14:09,974 - INFO - Request successful.
+2025-03-22 05:14:51,682 - INFO - Prompt token count: 7739
+2025-03-22 05:14:51,682 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 28892 characters...
+2025-03-22 05:15:02,990 - INFO - Token usage: prompt=7740, output=1455, total=9195
+2025-03-22 05:15:02,990 - INFO - Request successful.
+2025-03-22 05:15:24,209 - INFO - Prompt token count: 7739
+2025-03-22 05:15:24,210 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 28892 characters...
+2025-03-22 05:15:38,764 - INFO - Token usage: prompt=7740, output=689, total=8429
+2025-03-22 05:15:38,764 - INFO - Request successful.
+2025-03-22 05:15:38,872 - INFO - Prompt token count: 3295
+2025-03-22 05:15:38,872 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 14087 characters...
+2025-03-22 05:15:42,841 - INFO - Token usage: prompt=3296, output=353, total=3649
+2025-03-22 05:15:42,841 - INFO - Request successful.
+2025-03-22 05:23:56,075 - INFO - Prompt token count: 25749
+2025-03-22 05:23:56,075 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 70932 characters...
+2025-03-22 05:24:40,596 - INFO - Token usage: prompt=25750, output=7098, total=32848
+2025-03-22 05:24:40,597 - INFO - Request successful.
+2025-03-22 05:24:41,515 - INFO - Prompt token count: 25427
+2025-03-22 05:24:41,516 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:25:01,576 - INFO - Token usage: prompt=25428, output=1484, total=26912
+2025-03-22 05:25:01,576 - INFO - Request successful.
+2025-03-22 05:25:01,877 - INFO - Prompt token count: 25118
+2025-03-22 05:25:01,877 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 67611 characters...
+2025-03-22 05:25:36,822 - INFO - Token usage: prompt=25119, output=5622, total=30741
+2025-03-22 05:25:36,822 - INFO - Request successful.
+2025-03-22 05:25:37,088 - INFO - Prompt token count: 24789
+2025-03-22 05:25:37,088 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:26:01,820 - INFO - Token usage: prompt=24790, output=3700, total=28490
+2025-03-22 05:26:01,820 - INFO - Request successful.
+2025-03-22 05:28:12,913 - INFO - Prompt token count: 25818
+2025-03-22 05:28:12,913 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71265 characters...
+2025-03-22 05:28:47,121 - INFO - Token usage: prompt=25819, output=4784, total=30603
+2025-03-22 05:28:47,121 - INFO - Request successful.
+2025-03-22 05:28:47,368 - INFO - Prompt token count: 25427
+2025-03-22 05:28:47,369 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:29:10,206 - INFO - Token usage: prompt=25428, output=3014, total=28442
+2025-03-22 05:29:10,206 - INFO - Request successful.
+2025-03-22 05:29:10,455 - INFO - Prompt token count: 25187
+2025-03-22 05:29:10,455 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 67944 characters...
+2025-03-22 05:29:36,919 - INFO - Token usage: prompt=25188, output=3641, total=28829
+2025-03-22 05:29:36,919 - INFO - Request successful.
+2025-03-22 05:29:37,167 - INFO - Prompt token count: 24789
+2025-03-22 05:29:37,167 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:29:59,038 - INFO - Token usage: prompt=24790, output=2886, total=27676
+2025-03-22 05:29:59,038 - INFO - Request successful.
+2025-03-22 05:32:39,713 - INFO - Prompt token count: 25860
+2025-03-22 05:32:39,714 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71450 characters...
+2025-03-22 05:33:17,767 - INFO - Token usage: prompt=25861, output=5973, total=31834
+2025-03-22 05:33:17,768 - INFO - Request successful.
+2025-03-22 05:33:18,063 - INFO - Prompt token count: 25427
+2025-03-22 05:33:18,063 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:33:44,189 - INFO - Token usage: prompt=25428, output=3683, total=29111
+2025-03-22 05:33:44,189 - INFO - Request successful.
+2025-03-22 05:33:44,470 - INFO - Prompt token count: 25229
+2025-03-22 05:33:44,470 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68129 characters...
+2025-03-22 05:34:14,663 - INFO - Token usage: prompt=25230, output=2499, total=27729
+2025-03-22 05:34:14,663 - INFO - Request successful.
+2025-03-22 05:34:14,967 - INFO - Prompt token count: 24789
+2025-03-22 05:34:14,968 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:34:27,027 - INFO - Token usage: prompt=24790, output=1157, total=25947
+2025-03-22 05:34:27,027 - INFO - Request successful.
+2025-03-22 05:39:19,639 - INFO - Prompt token count: 25750
+2025-03-22 05:39:19,639 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 70839 characters...
+2025-03-22 05:39:52,844 - INFO - Token usage: prompt=25751, output=4819, total=30570
+2025-03-22 05:39:52,846 - INFO - Request successful.
+2025-03-22 05:39:53,100 - INFO - Prompt token count: 25427
+2025-03-22 05:39:53,101 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:40:16,076 - INFO - Token usage: prompt=25428, output=3293, total=28721
+2025-03-22 05:40:16,077 - INFO - Request successful.
+2025-03-22 05:40:16,348 - INFO - Prompt token count: 25119
+2025-03-22 05:40:16,348 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 67518 characters...
+2025-03-22 05:40:40,141 - INFO - Token usage: prompt=25120, output=2933, total=28053
+2025-03-22 05:40:40,141 - INFO - Request successful.
+2025-03-22 05:40:40,388 - INFO - Prompt token count: 24789
+2025-03-22 05:40:40,388 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:40:58,617 - INFO - Token usage: prompt=24790, output=2591, total=27381
+2025-03-22 05:40:58,618 - INFO - Request successful.
+2025-03-22 05:41:09,171 - INFO - Prompt token count: 25770
+2025-03-22 05:41:09,171 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 70995 characters...
+2025-03-22 05:41:47,297 - INFO - Token usage: prompt=25771, output=5744, total=31515
+2025-03-22 05:41:47,297 - INFO - Request successful.
+2025-03-22 05:41:47,477 - INFO - Prompt token count: 25427
+2025-03-22 05:41:47,478 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:42:10,807 - INFO - Token usage: prompt=25428, output=1683, total=27111
+2025-03-22 05:42:10,807 - INFO - Request successful.
+2025-03-22 05:42:11,067 - INFO - Prompt token count: 25139
+2025-03-22 05:42:11,068 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 67674 characters...
+2025-03-22 05:42:33,722 - INFO - Token usage: prompt=25140, output=2418, total=27558
+2025-03-22 05:42:33,722 - INFO - Request successful.
+2025-03-22 05:42:34,026 - INFO - Prompt token count: 24789
+2025-03-22 05:42:34,026 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:42:54,661 - INFO - Token usage: prompt=24790, output=2807, total=27597
+2025-03-22 05:42:54,661 - INFO - Request successful.
+2025-03-22 05:48:48,027 - INFO - Prompt token count: 25847
+2025-03-22 05:48:48,028 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71369 characters...
+2025-03-22 05:49:29,412 - INFO - Token usage: prompt=25848, output=7001, total=32849
+2025-03-22 05:49:29,413 - INFO - Request successful.
+2025-03-22 05:49:30,545 - INFO - Prompt token count: 25427
+2025-03-22 05:49:30,545 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:49:53,387 - INFO - Token usage: prompt=25428, output=2870, total=28298
+2025-03-22 05:49:53,387 - INFO - Request successful.
+2025-03-22 05:49:53,653 - INFO - Prompt token count: 25216
+2025-03-22 05:49:53,653 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68048 characters...
+2025-03-22 05:50:19,555 - INFO - Token usage: prompt=25217, output=3437, total=28654
+2025-03-22 05:50:19,555 - INFO - Request successful.
+2025-03-22 05:50:19,798 - INFO - Prompt token count: 24789
+2025-03-22 05:50:19,798 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:50:41,908 - INFO - Token usage: prompt=24790, output=1705, total=26495
+2025-03-22 05:50:41,909 - INFO - Request successful.
+2025-03-22 05:51:37,114 - INFO - Prompt token count: 25837
+2025-03-22 05:51:37,114 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71404 characters...
+2025-03-22 05:52:03,794 - INFO - Token usage: prompt=25838, output=4031, total=29869
+2025-03-22 05:52:03,794 - INFO - Request successful.
+2025-03-22 05:52:04,126 - INFO - Prompt token count: 25427
+2025-03-22 05:52:04,127 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 05:52:29,811 - INFO - Token usage: prompt=25428, output=1445, total=26873
+2025-03-22 05:52:29,811 - INFO - Request successful.
+2025-03-22 05:52:30,077 - INFO - Prompt token count: 25206
+2025-03-22 05:52:30,077 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68083 characters...
+2025-03-22 05:52:48,112 - INFO - Token usage: prompt=25207, output=1636, total=26843
+2025-03-22 05:52:48,112 - INFO - Request successful.
+2025-03-22 05:52:48,400 - INFO - Prompt token count: 24789
+2025-03-22 05:52:48,400 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 05:53:04,847 - INFO - Token usage: prompt=24790, output=1867, total=26657
+2025-03-22 05:53:04,848 - INFO - Request successful.
+2025-03-22 14:47:57,576 - INFO - Prompt token count: 25901
+2025-03-22 14:47:57,577 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 71535 characters...
+2025-03-22 14:48:17,287 - INFO - Token usage: prompt=25902, output=3108, total=29010
+2025-03-22 14:48:17,287 - INFO - Request successful.
+2025-03-22 14:48:17,673 - INFO - Prompt token count: 25427
+2025-03-22 14:48:17,673 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 69526 characters...
+2025-03-22 14:48:52,644 - INFO - Token usage: prompt=25428, output=2719, total=28147
+2025-03-22 14:48:52,645 - INFO - Request successful.
+2025-03-22 14:48:53,024 - INFO - Prompt token count: 25270
+2025-03-22 14:48:53,024 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 68214 characters...
+2025-03-22 14:49:11,725 - INFO - Token usage: prompt=25271, output=1973, total=27244
+2025-03-22 14:49:11,727 - INFO - Request successful.
+2025-03-22 14:49:11,934 - INFO - Prompt token count: 24789
+2025-03-22 14:49:11,935 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 66198 characters...
+2025-03-22 14:49:25,773 - INFO - Token usage: prompt=24790, output=1665, total=26455
+2025-03-22 14:49:25,773 - INFO - Request successful.
+2025-03-22 14:50:26,844 - INFO - Prompt token count: 5281
+2025-03-22 14:50:26,845 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 20490 characters...
+2025-03-22 14:50:43,835 - INFO - Token usage: prompt=5282, output=263, total=5545
+2025-03-22 14:50:43,835 - INFO - Request successful.
+2025-03-22 14:50:43,994 - INFO - Prompt token count: 4496
+2025-03-22 14:50:43,994 - INFO - Sending request to Gemini model 'gemini-2.0-flash-thinking-exp-01-21' with prompt length 19071 characters...
+2025-03-22 14:50:48,928 - INFO - Token usage: prompt=4497, output=258, total=4755
+2025-03-22 14:50:48,929 - INFO - Request successful.
