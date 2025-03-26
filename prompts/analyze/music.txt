@@ -1,49 +1,47 @@
-Analyze the provided audiobook transcription (part {part_idx}, from {start_ms} to {end_ms} milliseconds) and fanfic description. Instead of breaking the text into individual scenes, group related moments into 2-3 larger narrative arcs based on the story’s natural progression—such as shifts in focus, emotional tone, or major plot developments. Each arc should span multiple related events and provide a cohesive segment of the narrative, avoiding overly narrow or fragmented divisions.
+## TASK:
+Analyze the provided audiobook transcription excerpt (part {part_idx}) and the fanfic description. Your goal is to suggest potential placements for background music that would enhance the atmosphere and aid the listener's immersion in the story. This is a primary creative analysis step.
 
-For each narrative arc:
-1. Reason about the content in detail (free-form analysis), explaining how the grouped moments form a unified arc.
-2. Describe the arc using this template:
-   Arc [start-end]:
-   - Location: 
-   - Characters: 
-   - Events: 
-   - Arc Tone: 
-   - Description: 
-   - Music Recommendation: 
-     - Main Theme:
-       - Needed: Yes
-       - Start Time: 
-       - End Time: 
-       - Priority: [High/Medium/Low]
-       - Purpose: 
-       - Style: 
-       - Volume: 
-       - Tempo: 
-       - Duration: [Target 3-5 minutes]
-     - Optional Accent (if applicable):
-       - Needed: [Yes/No]
-       - Start Time: 
-       - End Time: 
-       - Priority: [High/Medium/Low]
-       - Purpose: 
-       - Style: 
-       - Volume: 
-       - Tempo: 
-       - Duration: [Target 30-60 seconds]
+## INSTRUCTIONS:
 
-For each arc, recommend a Main Theme with a duration of 3-5 minutes to create a strong, immersive atmosphere that reflects the arc’s overall tone and purpose. Select the Start Time at the beginning of the arc or a pivotal moment that sets its mood, and calculate End Time as Start Time + Duration, adjusting if it exceeds the arc’s end. Optionally, add one short Accent (30-60 seconds) within the arc to highlight a specific high-impact moment (e.g., a dramatic reveal or emotional peak), ensuring it complements the Main Theme without overlapping excessively. Use transcription timestamps only to define arc boundaries, not to dictate music placement—base music timings on the arc’s narrative flow.
+1.  **Understand the Context:** Carefully read the `Fanfic Description` and the `Transcription Part` ({part_idx}, from {start_ms} ms to {end_ms} ms). Pay attention to the overall plot and the specific events, dialogues, and narrative tone within this excerpt.
 
-The transcription part spans from {start_ms} to {end_ms} milliseconds (total duration: {total_duration_seconds} seconds). Aim for music to cover roughly a third of the part’s duration through the combined Main Themes and Accents, prioritizing immersive storytelling. Focus Main Themes on the arc’s dominant mood or progression, and use Accents sparingly for precision.
+2.  **Analyze the Text (Reasoning Phase):**
+    *   Go through the `part_text` step-by-step.
+    *   Identify natural narrative segments based on shifts in:
+        *   **Mood/Tone:** (e.g., rising tension, calm dialogue, sudden event, sadness, joy)
+        *   **Location:** (e.g., entering a new place, description of surroundings)
+        *   **Pacing:** (e.g., dynamic action vs. slow description)
+        *   **Key Events:** (e.g., character entrance, plot twist, important dialogue)
+    *   **Explain Your Thoughts:** For each segment you identify, briefly describe why you consider it distinct, its primary mood or event. *Think aloud why music might be appropriate here.* This reasoning is important.
 
-After describing all arcs, provide a separate list of music recommendations with specific timings, using this format:
-Music Recommendations List (Total Duration: [total_music_duration] seconds, [percentage]% of part duration):
-- [start_time]-[end_time] ms: [Style], [Purpose], [Duration], [Label: Priority - Purpose]
-- [start_time]-[end_time] ms: [Style], [Purpose], [Duration], [Label: Priority - Purpose]
-...
-Sort by Start Time. Use labels like "High - Establish Tension" or "Medium - Highlight Reveal". If music coverage falls significantly below a third, extend Main Theme durations or add subtle low-priority Accents; if it exceeds half, trim lower-priority elements.
+3.  **Suggest Music Intervals:** For segments where music seems fitting:
+    *   **Timing (ms):** Determine approximate `Start` and `End` timestamps in milliseconds, using the transcription timestamps as guides for segment boundaries. Calculate the `Duration` (End - Start).
+    *   **Music Character:** Describe the desired `Style/Mood` (e.g., "Mysterious ambient pad", "Light piano melody", "Tense orchestral background", "Neutral drone"). Focus on the *feeling* the music should evoke.
+    *   **Intensity/Dynamics:** Suggest a relative `Intensity` (e.g., Subtle, Medium, Prominent) or dynamics (e.g., "Fades in slowly", "Fades out by the end", "Sharp accent").
+    *   **Rationale:** Briefly explain (`Rationale`) why music is needed here and how the suggested character fits the context.
 
-Fanfic Description:
+4.  **Format the Output:** After your analysis, provide a clear, structured list of all suggested music intervals for this part. Use the following format for each suggestion:
+
+    ```markdown
+    **Music Suggestion:**
+    *   **Segment:** [Brief description, e.g., "Character enters the dark cave", "Argument between X and Y"]
+    *   **Time (ms):** Start=[start_ms], End=[end_ms], Duration=[duration_ms]
+    *   **Character (Style/Mood):** [e.g., Tense background]
+    *   **Intensity:** [e.g., Medium, builds up]
+    *   **Rationale:** [e.g., To enhance suspense during exploration]
+    ```
+    Ensure all timestamps are in milliseconds. Order the suggestions chronologically by their `Start` time.
+
+## INPUT DATA:
+
+**Fanfic Description:**
 {description_content}
-Transcription (part {part_idx}):
+
+**Transcription (Part {part_idx}, {start_ms} ms - {end_ms} ms):**
+
+
+start text
 {part_text}
-Output your reasoning, arc descriptions, and the Music Recommendations List for this part.
+
+## EXPECTED OUTPUT:
+First, provide your step-by-step reasoning about identifying segments and choosing music. Then, present the final structured list of "**Music Suggestion**" blocks.

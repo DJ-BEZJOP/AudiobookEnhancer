@@ -29,7 +29,7 @@ logger.addHandler(stream_handler)
 
 def send_gemini_request(
     prompt,
-    model_name="gemini-2.0-flash-thinking-exp-01-21",
+    model_name="gemini-2.5-pro-exp-03-25",
     temperature=0.7,
     top_p=0.95,
     top_k=64,
